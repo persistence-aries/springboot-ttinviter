@@ -1,11 +1,11 @@
 # Spring boot Web Project
-使用Spring boot & Reactjs 製作網站
-網站部分使用Docker部屬至AWS上: http://13.54.123.139:9090/ttinviter/
+* 使用Spring boot & Reactjs 製作網站
+* 網站部屬使用Docker部屬至AWS上: http://13.54.123.139:9090/ttinviter/  <br>(首次訪問網站需先註冊，帳密為登入使用)
 
 # 專案使用技術
-* 前端使用Reactjs建置
-* 後端使用Spring boot建置
-* 部屬時利用Webpack將Reactjs包裝到static底下，並使用Maven包出war
+* 前端使用Reactjs
+* 後端使用Spring boot
+* 利用Webpack整合Reactjs與Spring boot，將前端部分包裝到static底下，並使用Maven包出war
 
 
 # 主要功能
