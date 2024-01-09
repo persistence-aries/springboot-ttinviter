@@ -1,6 +1,6 @@
 # Spring boot Web Project
 * 使用Spring boot & Reactjs 製作網站
-* 網站部屬使用Docker部屬至AWS上: http://13.54.123.139:9090/ttinviter/  <br>(首次訪問網站需先註冊，帳密為登入使用)
+* 網站部屬使用Docker部屬至AWS上: http://13.54.33.174:9090/ttinviter/  <br>(首次訪問網站需先註冊，帳密為登入使用)
 
 # 專案使用技術
 * 前端使用Reactjs
